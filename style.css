@@ -442,7 +442,7 @@ nav .fa-solid {
     }
 
     nav ul {
-        background: #ff004f;
+        background: #00fbff;
         position: fixed;
         top: 0;
         right: -200px;
@@ -510,7 +510,7 @@ nav .fa-solid {
 
     .btn.btn3 {
         display: inline-block;
-        background: #ff004f;
+        background: #00fbff;
         margin-left: 0px;
     }
 }
