@@ -154,7 +154,7 @@ nav ul li a:hover::after {
 }
 
 .tab-contents ul li span {
-    color: #b75252;
+    color: #00c8ff;
     font-size: 14px;
 }
 
@@ -510,7 +510,7 @@ nav .fa-solid {
 
     .btn.btn3 {
         display: inline-block;
-        background: #00fbff;
+        background: #00c8ff;
         margin-left: 0px;
     }
 }
